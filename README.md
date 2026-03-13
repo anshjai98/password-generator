@@ -1,2 +1,4 @@
 # password-generator
-A secure password generator built using HTML, CSS and JavaScript
+A secure password generator built using HTML
+<br>CSS <br>
+JavaScript
